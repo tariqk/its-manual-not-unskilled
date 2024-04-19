@@ -1,0 +1,109 @@
+{ 
+	"recipes": [
+    
+    {
+      "id": "do_workhealth_start",
+      "label": "Manual Labour [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    { 
+      "id": "do_workhealth_loop_tick",
+      "label": "Manual Labour [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {
+      "id": "do_workhealth_loop",
+      "label": "Manual Labour [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {
+      "id": "do_workhealthskilla_start",
+      "label": "Manual Labour: Arms of Bronze [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {
+      "id": "do_workhealthskilla_loop",
+      "label": "Manual Labour: Arms of Bronze [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {
+      "id": "do_workhealthskilla_loop_tick",
+      "label": "Manual Labour: Arms of Bronze [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {
+      "id": "do_workhealthskillb_start",
+      "label": "Manual Labour: Arms of Iron [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {
+      "id": "do_workhealthskillb_loop",
+      "label": "Manual Labour: Arms of Iron [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {
+      "id": "do_workhealthskillb_loop_tick",
+      "label": "Manual Labour: Arms of Iron [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {   
+      "id": "do_workhealthskillc_start",
+      "label": "Manual Labour: Arms of Steel [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {
+      "id": "do_workhealthskillc_loop",
+      "label": "Manual Labour: Arms of Steel [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {
+      "id": "do_workhealthskillc_loop_tick",
+      "label": "Manual Labour: Arms of Steel [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+      
+    { 
+      "id": "do_workhealthskilld_edge_start",
+      "label": "Manual Labour: Like the Mountain [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {  
+      "id": "do_workhealthskilld_edge_loop",
+      "label": "Manual Labour: Like the Mountain [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    },
+    
+    {  
+      "id": "do_workhealthskilld_edge_loop_tick",
+      "label": "Manual Labour: Like the Mountain [Loop]",
+      "$depends": ["2823487280"],
+      "$priority": -1
+    }          
+  ]   
+}

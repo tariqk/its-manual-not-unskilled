@@ -1,13 +1,13 @@
 { 
 	"recipes": [
 
-		{
+	  {
       "id": "workhealth",
     	"label": "Manual Labour"
     },
 
     {
-	    "id": "workhealth_noinjurychance",
+      "id": "workhealth_noinjurychance",
     	"label": "Manual Labour"
     },
 
@@ -29,8 +29,6 @@
     {
     	"id": "workhealthskilld_edge",
     	"label": "Manual Labour: Like the Mountain"
-    }
-    
-    ]
-    
+    }          
+  ]   
 }
