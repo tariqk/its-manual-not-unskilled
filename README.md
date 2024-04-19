@@ -26,7 +26,7 @@ It's even in game itself — you develop your [Strength](https://cultistsimulato
 
 So much of what we consider “civilization” is built up on the backs of manual labour. Just calling it “unskilled” bothered me a _little_ bit, and I did some [reading up on how to mod](https://docs.google.com/document/d/1BZiUrSiT8kKvWIEvx5DObThL4HMGVI1CluJR20CWBU0/edit "link to Secret Histories Modding Guide, a community-developed modding reference document on how to mod for Cultist Simulator"), and I tinkered with some JSON files, and… well, here's this janky little mod, made by someone who needed to scratch this _particular_ itch.
 
-I don't even care if this mod remains the way it does, and nothing happens in the base game, or whatever. I made a fix. It kind of works. The sense of relief was _amazing_. I may need to make changes to this mod ever again. I hope so, anyway — it's not my life's work, it's just a small change for one guy at a particular moment in time.
+I don't even care if this mod remains the way it does, and nothing happens in the base game, or whatever. I made a fix. It kind of works. The sense of relief was _amazing_. I may never need to make changes to this mod ever again. I hope so, anyway — it's not my life's work, it's just a small change for one guy at a particular moment in time.
 
 ## Anything Else?
 
