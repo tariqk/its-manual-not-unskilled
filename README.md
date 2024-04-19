@@ -1,6 +1,6 @@
 # It's ‘Manual’, Not ‘Unskilled’!
 
-A really, _really_ tiny mod for Weather Underground's 2018 game, Cultist Simulator.
+A really, _really_ tiny mod for Weather Underground's 2018 game, [Cultist Simulator](https://weatherfactory.biz/cultist-simulator/ "link to game website").
 
 ## What?
 
