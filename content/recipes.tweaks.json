@@ -1,0 +1,36 @@
+{ 
+	"recipes": [
+
+		{
+      "id": "workhealth",
+    	"label": "Manual Labour"
+    },
+
+    {
+	    "id": "workhealth_noinjurychance",
+    	"label": "Manual Labour"
+    },
+
+    {
+    	"id": "workhealthskilla",
+    	"label": "Manual Labour: Arms of Bronze"
+    },
+
+    {
+    	"id": "workhealthskillb",
+    	"label": "Manual Labour: Arms of Iron"
+    },
+
+    {
+    	"id": "workhealthskillc",
+    	"label": "Manual Labour: Arms of Steel"
+    },
+
+    {
+    	"id": "workhealthskilld_edge",
+    	"label": "Manual Labour: Like the Mountain"
+    }
+    
+    ]
+    
+}
